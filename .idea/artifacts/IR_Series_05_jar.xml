@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="IR_Series_05:jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="IR_Series_05.jar">
+      <element id="module-output" name="IR_Series_05" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/lucene-core-6.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/lucene-benchmark-6.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jsoup-1.10.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/lucene-analyzers-common-6.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/lucene-queryparser-6.6.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
